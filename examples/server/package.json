@@ -24,7 +24,7 @@
     "express": "^4.17.1",
     "odata-v4-typeorm": "file:../..",
     "pg": "^7.14.0",
-    "typeorm": "^0.2.21"
+    "typeorm": "^0.3.17"
   },
   "devDependencies": {
     "@types/convict": "^4.2.1",
