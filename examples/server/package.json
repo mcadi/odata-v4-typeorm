@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/andryuha49/odata-v4-typeorm#readme",
   "dependencies": {
-    "convict": "^5.2.0",
+    "convict": "^6.0.0",
     "express": "^4.17.1",
     "odata-v4-typeorm": "file:../..",
     "pg": "^7.14.0",
